@@ -26,6 +26,9 @@ Welcome to the **NetNation** Expo app! This project showcases a React Native app
 
 This project is a React Native application built using Expo, providing a simple yet powerful template for any tech service's offerings. Users can explore value-added services, add products to their cart, and proceed to checkout to complete their purchases. The application also includes a user-friendly **Contact** tab for direct communication.
 
+| ![Home](assets/screenshots/ss01.png) | ![Product](assets/screenshots/ss02.png) | ![Contact](assets/screenshots/ss03.png) |
+| ------------------------------------ | --------------------------------------- | --------------------------------------- |
+
 ---
 
 ## Features
@@ -80,9 +83,10 @@ In the output, you'll find options to open the app in a
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go)
 
 Press I to start with iOS
+
 Press A to start with Android
 
 3. Start the app on Web brwoser
@@ -95,4 +99,4 @@ Press A to start with Android
      npx serve dist
    ```
 
-Select the browers of you choice and put the link from the terminal console.
+Select the browers of you choice and put the link from the terminal.
